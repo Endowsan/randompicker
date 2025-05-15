@@ -1,6 +1,3 @@
 # randompicker
-League of Legendsでランダムピックができなくなってしまっているのでつくった．ほんとうはもうちょっとちゃんとファイルとかフォルダとかちゃんとある
-
-
-flaskでつくったので公開先はここです↓
+League of Legendsでランダムピックができなくなってしまっているのでつくった．
 http://endow.pythonanywhere.com/
